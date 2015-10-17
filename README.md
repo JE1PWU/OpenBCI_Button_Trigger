@@ -3,7 +3,7 @@ Code that uses the on-board push button to insert a trigger into the data stream
 
 There is a tutorial that describes the functionality of this code [**here**](http://docs.openbci.com/tutorials/05-External_Trigger_32bit_Example)
 
-There is a tutorial for getting started from scratch uploading code to OpenBCI 32bit Boards [here](http://docs.openbci.com/tutorials/02-Upload_Code_to_OpenBCI_Board#upload-code-to-openbci-board-32bit-upload-how-to)
+There is a tutorial for getting started from scratch uploading code to OpenBCI 32bit Boards [**here**](http://docs.openbci.com/tutorials/02-Upload_Code_to_OpenBCI_Board#upload-code-to-openbci-board-32bit-upload-how-to)
 
 Note that to USE the OpenBCI system, you will generally use the OpenBCI USB Dongle. The dongle requries that you install the FTDI drivers for your particular operating system: http://www.ftdichip.com/FTDrivers.htm
 
